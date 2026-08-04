@@ -1,0 +1,10 @@
+# Ignore large datasets
+data/trials_master_UNCLEANED.csv
+data/trials_master_CLEANED.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
