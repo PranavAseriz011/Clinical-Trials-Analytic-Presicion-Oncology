@@ -1,7 +1,7 @@
 """
 Biomarker Detection Engine
 
-Author: Tamal Pawar
+Author: Tamalkrishna Pawar
 
 Purpose:
 Detect clinically relevant biomarkers from clinical trial
