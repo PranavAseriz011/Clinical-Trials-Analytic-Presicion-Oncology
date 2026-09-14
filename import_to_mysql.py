@@ -10,7 +10,7 @@ print("CSV loaded:", df.shape)
 conn = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Tamal@2006",
+    password="YOUR_CONNECTION_PASSWORD",
     database="ctpo"
 )
 
