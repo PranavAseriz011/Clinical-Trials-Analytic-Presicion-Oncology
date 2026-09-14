@@ -1,7 +1,7 @@
 import pandas as pd
 import mysql.connector
 
-csv_file = r"C:\Users\tamal\Desktop\CTPO The Finale\Clinical-Trials-Analytic-Presicion-Oncology-main\Data\trials_master_ANNOTATED.csv"
+csv_file = r"Data\trials_master_ANNOTATED.csv"
 
 df = pd.read_csv(csv_file)
 
