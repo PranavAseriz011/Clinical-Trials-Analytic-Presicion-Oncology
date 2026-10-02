@@ -2,7 +2,6 @@
 Biomarker Knowledge Base
 Project: Clinical Trials Analytic Precision Oncology
 
-Author: Tamalkrishna Pawar
 Description:
 Stores biological information about clinically important biomarkers
 used in precision oncology.
