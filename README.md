@@ -306,9 +306,9 @@ HER2 → Amplification / Overexpression
 
 ## 📊 Power BI Visualization
 
-Power BI will be used to transform the SQL analysis results into interactive dashboards and visual reports.
+Power BI was used to transform the SQL analysis results into interactive dashboards and visual reports.
 
-The dashboard will focus on:
+The dashboard focuses on:
 
 - Clinical trial status distribution
 - Study type and clinical phase analysis
@@ -474,49 +474,6 @@ These insights demonstrate how clinical-trial data can be transformed into struc
 
 ---
 
-## 🛠️ Skills & Technologies
-
-**Programming & Data Analysis**
-
-* Python
-* Pandas
-* NumPy
-* Data Cleaning & Preprocessing
-* Text Processing
-
-**Bioinformatics**
-
-* Biomarker Detection
-* Genetic Alteration Detection
-* Gene–Alteration Matching
-* Clinical Trial Text Analysis
-
-**Database & SQL**
-
-* MySQL
-* SQL
-* Data Validation
-* Analytical Queries
-* Aggregations & Subqueries
-
-**Business Intelligence**
-
-* Power BI
-* DAX
-* Data Modeling
-* Interactive Dashboards
-* Data Visualization
-* KPI Development
-
-**Tools**
-
-* Git & GitHub
-* MySQL Workbench
-* VS Code
-* Power BI Desktop
-* Jupyter Notebook
-
----
 
 ## 🚀 Project Status
 
@@ -542,7 +499,7 @@ The project currently includes:
 
 **Pranav Aseri** — Data Analytics, Python, Power BI, Pandas, Data cleaning 
 
-**Tamal Krishna Pawar** — Data Collection,SQL, Research & Project Collaboration,BioInformatics
+**Tamalkrishna Pawar** — Data Collection, BioInformatics, Data Annotation, SQL. 
 
 ---
 
