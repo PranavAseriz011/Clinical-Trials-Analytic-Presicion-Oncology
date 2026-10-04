@@ -320,6 +320,234 @@ The dashboard will focus on:
 - Enrollment analysis
 - Key precision-oncology insights
 
-> 🚧 **Status:** Power BI dashboard is currently under development.
-started !!!
-> 
+## 📊 Power BI Dashboard
+
+The processed clinical-trial data and SQL analysis results were transformed into an interactive **Power BI dashboard suite** for exploring the precision-oncology clinical-trial landscape.
+
+The Power BI analysis is organized into **four analytical dashboards**, each focusing on a different aspect of the dataset.
+
+### Dashboard 1 — Executive Overview 
+
+Provides a high-level overview of the clinical-trial landscape.
+
+Key areas include:
+
+* Total clinical-trial records
+* Unique clinical trials
+* Trial status distribution
+* Study type distribution
+* Clinical phase distribution
+* Enrollment analysis
+* Trial timeline
+* Sponsor overview
+
+This dashboard provides an executive-level summary of the dataset.
+
+---
+
+### Dashboard 2 — Biomarker Analysis
+
+Focuses on the distribution and characteristics of precision-oncology biomarkers.
+
+Key areas include:
+
+* EGFR trial analysis
+* ALK trial analysis
+* HER2 trial analysis
+* Biomarker distribution
+* Biomarker vs. trial status
+* Biomarker vs. clinical phase
+* Biomarker vs. study type
+* Comparative analysis of EGFR, ALK, and HER2
+
+This dashboard helps identify how major precision-oncology biomarkers are represented across clinical trials.
+
+---
+
+### Dashboard 3 — Genetic Alteration Analysis
+
+Analyzes the genetic alterations identified from clinical-trial text.
+
+Key areas include:
+
+* Genetic alteration distribution
+* Mutation analysis
+* Fusion analysis
+* Rearrangement analysis
+* Amplification analysis
+* Deletion analysis
+* Overexpression analysis
+* Gene–alteration relationships
+* Gene–alteration vs. trial status
+* Gene–alteration vs. clinical phase
+
+This dashboard provides a deeper view of the genetic characteristics associated with precision-oncology trials.
+
+---
+
+### Dashboard 4 — Development & Sponsor Landscap  
+
+Explores the organizations and research patterns driving precision-oncology clinical trials.
+
+Key areas include:
+
+* Lead sponsor analysis
+* Sponsor classification
+* Trial activity by sponsor
+* Enrollment by sponsor
+* Trial status by sponsor
+* Research activity across clinical phases
+* Timeline-based research trends
+
+This dashboard helps understand the organizations and research activity shaping the precision-oncology landscape.
+
+---
+
+### 📁 Power BI File
+
+The complete Power BI report is available in the repository:
+
+```text
+PowerBI/
+└── Precision_Oncology_Intelligence.pbix
+```
+
+The `.pbix` file contains the interactive dashboards, data model, measures, visualizations, filters, and analytical views developed for this project.
+
+## 🛠️ Skills & Technologies
+
+### Programming & Data Analysis
+
+* Python
+* Pandas
+* NumPy
+* Text Processing
+* Data Cleaning & Preprocessing
+
+### Bioinformatics
+
+* Biomarker Detection
+* Genetic Alteration Detection
+* Gene–Alteration Matching
+* Clinical Trial Text Analysis
+
+### Database & SQL
+
+* MySQL
+* SQL Querying
+* Data Validation
+* Aggregations
+* Subqueries
+* Analytical Queries
+
+### Business Intelligence
+
+* Microsoft Power BI
+* Data Modeling
+* DAX
+* Interactive Dashboards
+* Data Visualization
+* KPI Development
+* Analytical Storytelling
+
+### Tools
+
+* Git & GitHub
+* MySQL Workbench
+* VS Code
+* Power BI Desktop
+* Jupyter Notebook
+
+## 💡 Key Insights
+
+The analysis provides a data-driven view of the precision-oncology clinical-trial landscape, highlighting:
+
+* Distribution of clinical trials across EGFR, ALK, and HER2 biomarkers.
+* Differences in trial status, study type, and clinical phase across biomarkers.
+* Major genetic alteration patterns identified in precision-oncology trials.
+* Relationships between genes and their associated genetic alterations.
+* Clinical-trial enrollment patterns.
+* Sponsor activity across precision-oncology research.
+* Trends in clinical-trial activity over time.
+
+These insights demonstrate how clinical-trial data can be transformed into structured information and interactive analytical dashboards for exploring precision-oncology research.
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Programming & Data Analysis**
+
+* Python
+* Pandas
+* NumPy
+* Data Cleaning & Preprocessing
+* Text Processing
+
+**Bioinformatics**
+
+* Biomarker Detection
+* Genetic Alteration Detection
+* Gene–Alteration Matching
+* Clinical Trial Text Analysis
+
+**Database & SQL**
+
+* MySQL
+* SQL
+* Data Validation
+* Analytical Queries
+* Aggregations & Subqueries
+
+**Business Intelligence**
+
+* Power BI
+* DAX
+* Data Modeling
+* Interactive Dashboards
+* Data Visualization
+* KPI Development
+
+**Tools**
+
+* Git & GitHub
+* MySQL Workbench
+* VS Code
+* Power BI Desktop
+* Jupyter Notebook
+
+---
+
+## 🚀 Project Status
+
+**Completed ✅**
+
+The project currently includes:
+
+* ✅ Clinical-trial data collection and preprocessing
+* ✅ Data cleaning
+* ✅ Bioinformatics annotation
+* ✅ Biomarker detection
+* ✅ Genetic alteration detection
+* ✅ Gene–alteration matching
+* ✅ MySQL database
+* ✅ SQL analytical queries
+* ✅ Four Power BI dashboards
+* ✅ Interactive data visualization
+* ✅ Analytical insights
+
+---
+
+## 👨‍💻 Contributors
+
+**Pranav Aseri** — Data Analytics, Python, Power BI, Pandas, Data cleaning 
+
+**Tamal Krishna Pawar** — Data Collection,SQL, Research & Project Collaboration,BioInformatics
+
+---
+
+## 📌 Disclaimer
+
+This project is intended for **educational and analytical purposes**. The analysis does not provide medical advice, clinical recommendations, or treatment guidance.
+
+ 
